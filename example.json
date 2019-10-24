@@ -1,0 +1,4 @@
+{"method": "string", "percentage": "float", "queries": "int", "musec": "float"}
+{"method": "A", "percentage": "13.89", "queries": "1000", "musec": "10.046600"}
+{"method": "B", "percentage": "21.52", "queries": "2000", "musec": "28.771800"}
+{"method": "C", "percentage": "73.88", "queries": "9921", "musec": "37.571400"}
