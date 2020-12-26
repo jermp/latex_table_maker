@@ -10,7 +10,7 @@ table skeleton that to be then refined.
 
 The command
 
-	$ python create_table example.json example.tex > test.tex
+	python create_table.py example.json example.tex > test.tex
 	
 creates a `example.tex` file from the json file
 `example.json`
@@ -18,7 +18,7 @@ provided as an example and print a minimal
 latex document into `test.tex` that can be
 compiled with
 
-	$ pdflatex test.tex
+	pdflatex test.tex
 
 
 ### Input data format
